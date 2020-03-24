@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=
+ManagedProjectGUID=399AC512-925E-4FAD-8BC9-C507661E0D3E
+VaultGUID=E3AC6D91-5872-4F5B-8C96-9089B9C56DF8
+ReleaseVaultName=Altium with exteranl vcs
+ItemGUID=399AC512-925E-4FAD-8BC9-C507661E0D3E
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=E3AC6D91-5872-4F5B-8C96-9089B9C56DF8&ItemGUID=15E646D9-45D7-40C6-A027-9226094D075C&RevisionGUID=5AB2C55F-A0D9-4EE2-B872-99B32FDD465B&MainFilename=PCB_Project1.PrjPCB
 IncludeDesignInRelease=0
 
